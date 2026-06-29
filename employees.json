@@ -1,0 +1,236 @@
+[
+  {
+    "emp_id": "20270022",
+    "emp_name": "Sampath Kumar",
+    "department": "Digital marketing",
+    "img_src": "https://drive.google.com/open?id=1fldi9z0VyhCalmdFrndUjD7wF7I8Pvy8"
+  },
+  {
+    "emp_id": "2026013",
+    "emp_name": "Chintala Suryapavan",
+    "department": "DevOps Engineer",
+    "img_src": "https://drive.google.com/file/d/1cotg2-GM6DFD3F8TFUJM0P4q3oxr1-HT/view?usp=drivesdk"
+  },
+  {
+    "emp_id": "20270015",
+    "emp_name": "K.M.C. Ram Singh",
+    "department": "Jr DevOps engineer",
+    "img_src": "https://drive.google.com/file/d/1R2VG-mgJPI9rEuSjLzo-4_TetNG5FoSQ/view?usp=drivesdk"
+  },
+  {
+    "emp_id": "20270033",
+    "emp_name": "Koilada Deepak",
+    "department": "JR cybersecurity engineer",
+    "img_src": "https://drive.google.com/open?id=1-Pgx-He2IE6XH1gFtMXEXKzs7VECMaHn"
+  },
+  {
+    "emp_id": "20270014",
+    "emp_name": "T.Hema Sai kumar",
+    "department": "jr DevOps Engineer",
+    "img_src": "https://drive.google.com/open?id=1a-Dd_TWBUv8izBPnuX4gf4sPOma0Sg2o"
+  },
+  {
+    "emp_id": "20270004",
+    "emp_name": "SANTOSH.S",
+    "department": "FRONT END DEVLOPER",
+    "img_src": "https://drive.google.com/open?id=11O2jmuKbTIbx9QaeUPJCitLdTWRfnNna"
+  },
+  {
+    "emp_id": "20270002",
+    "emp_name": "Polumuri Sravani",
+    "department": "Data analyst",
+    "img_src": "https://drive.google.com/open?id=1jiY95tbhfr9eSYrVSoRDCmb1tRWgV-gZ"
+  },
+  {
+    "emp_id": "20270040",
+    "emp_name": "Palakonda Mahesh",
+    "department": "DevOps",
+    "img_src": "https://drive.google.com/open?id=1Krf1R0_aXVUCedmRLFOMqt-iHMs2z19U"
+  },
+  {
+    "emp_id": "2026018",
+    "emp_name": "Mahammad Samiyulla Suraj",
+    "department": "Sr Devops Engineer",
+    "img_src": "https://drive.google.com/open?id=1iakRgvi8FXzbOGMZbUglIcD8mGqJhk6R"
+  },
+  {
+    "emp_id": "20270019",
+    "emp_name": "G Surya Prakash",
+    "department": "UI/UX",
+    "img_src": "https://drive.google.com/open?id=1u8-VeToEHWFVYoEhg5oUuLvsRl1XjCbt"
+  },
+  {
+    "emp_id": "2025008",
+    "emp_name": "ANUSHA CHITRADA",
+    "department": "HR",
+    "img_src": "https://drive.google.com/open?id=1rxMJApS-_BrTXdwTtjBUVi1Hpi4PIbzs"
+  },
+  {
+    "emp_id": "2026999",
+    "emp_name": "Saripilli Murali Krishna",
+    "department": "Python Developer",
+    "img_src": "https://drive.google.com/open?id=1We8lQolfYRq8FGGVp7C9CRZukgy6NlbN"
+  },
+  {
+    "emp_id": "20270024",
+    "emp_name": "Balaji Mamidi",
+    "department": "UI/UX",
+    "img_src": "https://drive.google.com/open?id=1NEvvgbHI7dbJxt3NiYSY4Kt6r56KlLCk"
+  },
+  {
+    "emp_id": "20270013",
+    "emp_name": "M.Dinesh",
+    "department": "Front end developer",
+    "img_src": "https://drive.google.com/open?id=1lQigCL4ZQMxt9GTfh6alZtg1ZfW-gheZ"
+  },
+  {
+    "emp_id": "20270005",
+    "emp_name": "Mulagada Aswini",
+    "department": "Data Analyst",
+    "img_src": "https://drive.google.com/open?id=12inOkoy7x-MeJU8OU7y60GBuHhWHeprJ"
+  },
+  {
+    "emp_id": "2025009",
+    "emp_name": "Rahul Satvik",
+    "department": "Development",
+    "img_src": "https://drive.google.com/open?id=1LmDz9TqlQOoNvsXst5fqPhDxA4awXk7C"
+  },
+  {
+    "emp_id": "2026021",
+    "emp_name": "Vivek Rapaka",
+    "department": "Data Analyst",
+    "img_src": "https://drive.google.com/open?id=1E0iwD4O0JGP7aD8vFbX5YR2K-zI0mVxz"
+  },
+  {
+    "emp_id": "2026014",
+    "emp_name": "M. Lokesh",
+    "department": "Video Editor",
+    "img_src": "https://drive.google.com/open?id=1euuwKnNaKs0cMd6QBb5EyyIfZs5UYXek"
+  },
+  {
+    "emp_id": "2028002",
+    "emp_name": "PINNINTI KUSUMA KUMARI",
+    "department": "PYTHON DEVELOPER",
+    "img_src": "https://drive.google.com/open?id=1h3_jH_jsv8eiztoBYLEED_B8uf5Yijr6"
+  },
+  {
+    "emp_id": "2026019",
+    "emp_name": "Satya Padala",
+    "department": "UI/UX Designer",
+    "img_src": "https://drive.google.com/open?id=1lGNuY1RT6DNRoaMeqBfxeWV_7pN8YjxZ"
+  },
+  {
+    "emp_id": "2025005",
+    "emp_name": "Paluri Harsha Vardhan",
+    "department": "Developer",
+    "img_src": "https://drive.google.com/open?id=1HE9AC-TKFOm4Pj5ML49jX66lvjYn4XC0"
+  },
+  {
+    "emp_id": "20260005",
+    "emp_name": "Bala Aravind Siriki",
+    "department": "Devops",
+    "img_src": "https://drive.google.com/open?id=1Uuay6uw3fjzsv6EtKn7TqUWOzIqKDoC5"
+  },
+  {
+    "emp_id": "2028003",
+    "emp_name": "Mohan Gudepu",
+    "department": "Cybersecurity",
+    "img_src": "https://drive.google.com/open?id=1BVcG4zvlflc__FQDa8AozMZJdeygamh1"
+  },
+  {
+    "emp_id": "202600002",
+    "emp_name": "VEHITH GOTTIPATI",
+    "department": "DATA ANALYST",
+    "img_src": "https://drive.google.com/open?id=1LRV-cTqcXQwN0B88mhr10JUspeuUK5F8"
+  },
+  {
+    "emp_id": "2026086",
+    "emp_name": "Kavuloori Sai Praghnesh Kumar",
+    "department": "Front end developer and python developer",
+    "img_src": "https://drive.google.com/open?id=1cVVv519et38FMoVHje4nHiGVNhU03Fys"
+  },
+  {
+    "emp_id": "2025006",
+    "emp_name": "BharathKumar Kunkipudi",
+    "department": "Developer",
+    "img_src": "https://drive.google.com/open?id=1MnWmEzJw9DsJxq_3a6oD-OyQ3nzbEuhp"
+  },
+  {
+    "emp_id": "20270012",
+    "emp_name": "RamRaju",
+    "department": "DATA ANALYST",
+    "img_src": "https://drive.google.com/open?id=1z6Nd6s2FfWMfNYEw3Xz6ctJRRHZprpFB"
+  },
+  {
+    "emp_id": "2026011",
+    "emp_name": "Jhansi Malleti",
+    "department": "UI/UX",
+    "img_src": "https://drive.google.com/open?id=1tTxDTycQP-zAIPEEcbVUpwR_8yCIgM1O"
+  },
+  {
+    "emp_id": "2028001",
+    "emp_name": "Tamarana Satish Kumar",
+    "department": "Software Developer",
+    "img_src": "https://drive.google.com/open?id=1Z0RquKLUTb-jBUwAEDlZP3A_uwmOLD_3"
+  },
+  {
+    "emp_id": "20270007",
+    "emp_name": "S.SURESH",
+    "department": "Jr.DevOps Engineer",
+    "img_src": "https://drive.google.com/open?id=1ThXzcXNH94D9quMo8PkSKoNjV-bnPa53"
+  },
+  {
+    "emp_id": "2026020",
+    "emp_name": "Surya Teja",
+    "department": "UI UX DESIGNER",
+    "img_src": "https://drive.google.com/file/d/1ZQcbNJS-MGkRXEvapVaCBlfJTWaY19vv/view?usp=drivesdk"
+  },
+  {
+    "emp_id": "20270010",
+    "emp_name": "SHEIK HAMDI RUKSANA",
+    "department": "UI/UX DESIGNER",
+    "img_src": "https://drive.google.com/open?id=1ec5Xb3fxkDrMn9QEBngEubVe1spVdakq"
+  },
+  {
+    "emp_id": "20270011",
+    "emp_name": "Kiran Kumar K",
+    "department": "Cyber Security",
+    "img_src": "https://drive.google.com/open?id=1rHuhzXEYmlZx4HUz4x8derwLgPN1w4x3"
+  },
+  {
+    "emp_id": "20270016",
+    "emp_name": "Dinesh Kumar.P",
+    "department": "frontend developer",
+    "img_src": "https://drive.google.com/file/d/17RmEwMA7haJDTFpa0kkeAr1XWFS68vGL/view?usp=drivesdk"
+  },
+  {
+    "emp_id": "202600004",
+    "emp_name": "KONDIPARTHI GIRIDHAR",
+    "department": "DATA ANALYST",
+    "img_src": "https://drive.google.com/open?id=1E1GIN--e9uoJ_-3JZqpsv8-aKxCfmeOs"
+  },
+  {
+    "emp_id": "2028005",
+    "emp_name": "Janardhan Janapareddi",
+    "department": "Devops",
+    "img_src": "https://drive.google.com/open?id=1eqcZ8OqIyTgQigTC3BABAtKJh3ioomeJ"
+  },
+  {
+    "emp_id": "20270003",
+    "emp_name": "S. Jyothi",
+    "department": "Data Analyst",
+    "img_src": "https://drive.google.com/open?id=1VMJ7C-ya6KOjIZ4-zM84mkOczRrqcrRt"
+  },
+  {
+    "emp_id": "20270006",
+    "emp_name": "GADI ARVIND",
+    "department": "JR.DevOps",
+    "img_src": "https://drive.google.com/open?id=1EbX80teFFcl3coTOJX1dxcMznh4CnTkl"
+  },
+  {
+    "emp_id": "20270008",
+    "emp_name": "U.Sunitha",
+    "department": "UI/UX",
+    "img_src": "https://drive.google.com/file/d/1eMG7gZZGuRy5JO6S-bf0_B5JBLHTW1wH/view?usp=drivesdk"
+  }
+]
